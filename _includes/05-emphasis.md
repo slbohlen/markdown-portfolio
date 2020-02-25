@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a patient and somewhat *reserved* person. One of my biggest strengths is **problem solving**. My favorite programming language by far is ***SQL***. 
